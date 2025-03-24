@@ -1,0 +1,16 @@
+user_id,course_id,enrollment_date,completion_status,time_spent_mins,number_of_logins,age_group,preferred_learning_time,course_category,user_age
+1014,213,14-12-2024,Not Started,134,35,19-25,Morning,Design,19
+1004,212,04-11-2024,Completed,201,21,19-25,Evening,Programming,24
+1003,207,16-04-2024,Not Started,589,48,26-35,Afternoon,Business,27
+1004,210,19-11-2024,Not Started,436,15,26-35,Afternoon,Design,28
+1004,209,15-09-2024,Completed,565,16,26-35,Evening,Programming,32
+1001,210,11-07-2024,Completed,140,35,19-25,Evening,Business,24
+1004,203,28-11-2024,Completed,236,29,26-35,Morning,Programming,26
+1001,212,06-09-2024,Not Started,288,26,19-25,Evening,Design,19
+1001,209,08-12-2024,In Progress,328,20,19-25,Afternoon,Business,23
+1009,213,16-08-2024,Completed,434,42,19-25,Morning,Programming,22
+1002,210,02-09-2024,Not Started,412,16,19-25,Afternoon,Programming,21
+1009,207,14-10-2024,Not Started,215,12,26-35,Morning,Programming,29
+1012,203,03-01-2024,In Progress,577,24,26-35,Afternoon,Programming,30
+1001,202,02-05-2024,In Progress,208,36,19-25,Afternoon,Business,25
+1006,205,07-05-2024,In Progress,451,36,19-25,Afternoon,Business,24
